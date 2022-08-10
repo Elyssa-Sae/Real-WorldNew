@@ -6263,3 +6263,686 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.10-17.52.59:685][846]AssetCheck: New page: Asset Save: multiple assets
 [2022.08.10-17.52.59:685][846]LogContentValidation: Display: Validating World /Game/Maps/CafeteriaF.CafeteriaF
 [2022.08.10-17.52.59:685][846]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/CafeteriaF_BuiltData.CafeteriaF_BuiltData
+[2022.08.10-17.54.42:915][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cafeteria_Scene_Final_Floor)
+[2022.08.10-18.03.00:419][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.08.10-18.03.00:424][359]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/CafeteriaF' took 0.015
+[2022.08.10-18.03.00:425][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Wall3] ([1] browsable assets)...
+[2022.08.10-18.03.00:553][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Wall3.Cafeteria_Scene_Final_Wall3]
+[2022.08.10-18.03.00:553][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Wall3]
+[2022.08.10-18.03.00:564][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Wall3_Auto874AC3FC49AF9177E900EDA7B2BC19F2.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Wall3_Auto6.uasset'
+[2022.08.10-18.03.00:565][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin2] ([1] browsable assets)...
+[2022.08.10-18.03.00:592][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin2.Cafeteria_Scene_Final_Rubbish_Bin2]
+[2022.08.10-18.03.00:592][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin2]
+[2022.08.10-18.03.00:610][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Rubbish_Bi86599A664CD60261285132919312EB90.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin2_Auto6.uasset'
+[2022.08.10-18.03.00:612][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin4] ([1] browsable assets)...
+[2022.08.10-18.03.00:638][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin4.Cafeteria_Scene_Final_Rubbish_Bin4]
+[2022.08.10-18.03.00:638][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin4]
+[2022.08.10-18.03.00:656][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Rubbish_BiFE8521174CC450C8C3DD76A082F66503.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin4_Auto6.uasset'
+[2022.08.10-18.03.00:657][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin5] ([1] browsable assets)...
+[2022.08.10-18.03.00:684][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin5.Cafeteria_Scene_Final_Rubbish_Bin5]
+[2022.08.10-18.03.00:684][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin5]
+[2022.08.10-18.03.00:702][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Rubbish_Bi49598FA24C4D12ECD640F7ABCC1D2866.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin5_Auto6.uasset'
+[2022.08.10-18.03.00:703][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin6] ([1] browsable assets)...
+[2022.08.10-18.03.00:729][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin6.Cafeteria_Scene_Final_Rubbish_Bin6]
+[2022.08.10-18.03.00:729][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin6]
+[2022.08.10-18.03.00:747][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Rubbish_Bi9801A70D483BF7CCD7DBB490926D5630.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin6_Auto6.uasset'
+[2022.08.10-18.03.00:747][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin7] ([1] browsable assets)...
+[2022.08.10-18.03.00:774][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin7.Cafeteria_Scene_Final_Rubbish_Bin7]
+[2022.08.10-18.03.00:775][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin7]
+[2022.08.10-18.03.00:793][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Rubbish_Bi16E52DC3491A7630874C60B441E686BC.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin7_Auto6.uasset'
+[2022.08.10-18.03.00:794][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin8] ([1] browsable assets)...
+[2022.08.10-18.03.00:821][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin8.Cafeteria_Scene_Final_Rubbish_Bin8]
+[2022.08.10-18.03.00:821][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin8]
+[2022.08.10-18.03.00:840][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Rubbish_BiF5928E8547947A65D021C19966277DA6.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin8_Auto6.uasset'
+[2022.08.10-18.03.00:841][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin10] ([1] browsable assets)...
+[2022.08.10-18.03.00:867][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin10.Cafeteria_Scene_Final_Rubbish_Bin10]
+[2022.08.10-18.03.00:867][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin10]
+[2022.08.10-18.03.00:885][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Rubbish_Bi2142E8254394AE5FFE431B9E0A4967B7.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Rubbish_Bin10_Auto6.uasset'
+[2022.08.10-18.03.00:886][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable7] ([1] browsable assets)...
+[2022.08.10-18.03.00:912][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable7.Cafeteria_Scene_Final_pTable7]
+[2022.08.10-18.03.00:912][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable7]
+[2022.08.10-18.03.00:922][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable7_Au113505EC4990D9ED22EBAD95CA56D587.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable7_Auto6.uasset'
+[2022.08.10-18.03.00:923][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable26] ([1] browsable assets)...
+[2022.08.10-18.03.00:949][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable26.Cafeteria_Scene_Final_pTable26]
+[2022.08.10-18.03.00:949][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable26]
+[2022.08.10-18.03.00:960][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable26_A9BF4B5644874B0E5A61C56BD3A7C6B43.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable26_Auto6.uasset'
+[2022.08.10-18.03.00:961][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable27] ([1] browsable assets)...
+[2022.08.10-18.03.00:985][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable27.Cafeteria_Scene_Final_pTable27]
+[2022.08.10-18.03.00:985][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable27]
+[2022.08.10-18.03.00:996][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable27_A9489C40146A4F7F442AE39B479CF5FF8.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable27_Auto6.uasset'
+[2022.08.10-18.03.00:996][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable28] ([1] browsable assets)...
+[2022.08.10-18.03.01:021][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable28.Cafeteria_Scene_Final_pTable28]
+[2022.08.10-18.03.01:021][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable28]
+[2022.08.10-18.03.01:066][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable28_AFD70C9904B2A318078F2D88EE4381051.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable28_Auto6.uasset'
+[2022.08.10-18.03.01:067][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable29] ([1] browsable assets)...
+[2022.08.10-18.03.01:091][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable29.Cafeteria_Scene_Final_pTable29]
+[2022.08.10-18.03.01:091][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable29]
+[2022.08.10-18.03.01:101][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable29_A03B86C324B913C250937E5BE034EBEF5.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable29_Auto6.uasset'
+[2022.08.10-18.03.01:102][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable30] ([1] browsable assets)...
+[2022.08.10-18.03.01:127][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable30.Cafeteria_Scene_Final_pTable30]
+[2022.08.10-18.03.01:127][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable30]
+[2022.08.10-18.03.01:137][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable30_A1D2C3EB14ECAE23E80A1DC81CF7BC713.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable30_Auto6.uasset'
+[2022.08.10-18.03.01:138][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable31] ([1] browsable assets)...
+[2022.08.10-18.03.01:162][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable31.Cafeteria_Scene_Final_pTable31]
+[2022.08.10-18.03.01:162][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable31]
+[2022.08.10-18.03.01:172][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable31_A836740F34214EF34EA8525A5BF5D858D.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable31_Auto6.uasset'
+[2022.08.10-18.03.01:177][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable32] ([1] browsable assets)...
+[2022.08.10-18.03.01:203][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable32.Cafeteria_Scene_Final_pTable32]
+[2022.08.10-18.03.01:203][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable32]
+[2022.08.10-18.03.01:213][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable32_AD236D4E346D5D28C220AD1927407E7C3.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable32_Auto6.uasset'
+[2022.08.10-18.03.01:214][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable33] ([1] browsable assets)...
+[2022.08.10-18.03.01:239][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable33.Cafeteria_Scene_Final_pTable33]
+[2022.08.10-18.03.01:239][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable33]
+[2022.08.10-18.03.01:260][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable33_A4A97604D44029CE2A76B6EAE04EF42C5.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable33_Auto6.uasset'
+[2022.08.10-18.03.01:260][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable34] ([1] browsable assets)...
+[2022.08.10-18.03.01:285][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable34.Cafeteria_Scene_Final_pTable34]
+[2022.08.10-18.03.01:285][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable34]
+[2022.08.10-18.03.01:297][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable34_AE59996BA45F558D00C12D995CA49B180.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable34_Auto6.uasset'
+[2022.08.10-18.03.01:297][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable35] ([1] browsable assets)...
+[2022.08.10-18.03.01:322][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable35.Cafeteria_Scene_Final_pTable35]
+[2022.08.10-18.03.01:322][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable35]
+[2022.08.10-18.03.01:332][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable35_A0B83C9C043D87921DBED0BA3EDB2DA53.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable35_Auto6.uasset'
+[2022.08.10-18.03.01:333][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable36] ([1] browsable assets)...
+[2022.08.10-18.03.01:358][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable36.Cafeteria_Scene_Final_pTable36]
+[2022.08.10-18.03.01:358][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable36]
+[2022.08.10-18.03.01:369][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable36_A867382404DC2301480A0BDB298AC479F.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable36_Auto6.uasset'
+[2022.08.10-18.03.01:370][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable37] ([1] browsable assets)...
+[2022.08.10-18.03.01:392][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable37.Cafeteria_Scene_Final_pTable37]
+[2022.08.10-18.03.01:393][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable37]
+[2022.08.10-18.03.01:403][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable37_A286807354C5449E7FE9E26AEB86E5C83.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable37_Auto6.uasset'
+[2022.08.10-18.03.01:404][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable38] ([1] browsable assets)...
+[2022.08.10-18.03.01:429][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable38.Cafeteria_Scene_Final_pTable38]
+[2022.08.10-18.03.01:429][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable38]
+[2022.08.10-18.03.01:439][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable38_A7F74789842C2F4B0F7E82AB81AA0A40F.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable38_Auto6.uasset'
+[2022.08.10-18.03.01:441][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable39] ([1] browsable assets)...
+[2022.08.10-18.03.01:467][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable39.Cafeteria_Scene_Final_pTable39]
+[2022.08.10-18.03.01:467][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable39]
+[2022.08.10-18.03.01:477][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable39_A7A46A946426F5169984071911C9D3B5E.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable39_Auto6.uasset'
+[2022.08.10-18.03.01:478][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable40] ([1] browsable assets)...
+[2022.08.10-18.03.01:501][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable40.Cafeteria_Scene_Final_pTable40]
+[2022.08.10-18.03.01:501][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable40]
+[2022.08.10-18.03.01:511][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable40_AEA774AA7487F37718A914880077CFC30.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable40_Auto6.uasset'
+[2022.08.10-18.03.01:512][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable41] ([1] browsable assets)...
+[2022.08.10-18.03.01:536][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable41.Cafeteria_Scene_Final_pTable41]
+[2022.08.10-18.03.01:536][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable41]
+[2022.08.10-18.03.01:547][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable41_A9DB01E5E401F6A1AF0D13896ED2E2772.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable41_Auto6.uasset'
+[2022.08.10-18.03.01:548][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable42] ([1] browsable assets)...
+[2022.08.10-18.03.01:565][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable42.Cafeteria_Scene_Final_pTable42]
+[2022.08.10-18.03.01:565][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable42]
+[2022.08.10-18.03.01:575][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable42_AEAC6F1FA431A8B3978B905AB958D9C4A.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable42_Auto6.uasset'
+[2022.08.10-18.03.01:576][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable43] ([1] browsable assets)...
+[2022.08.10-18.03.01:592][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable43.Cafeteria_Scene_Final_pTable43]
+[2022.08.10-18.03.01:592][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable43]
+[2022.08.10-18.03.01:603][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable43_AEB8F4009479D218440293985D3F122A9.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable43_Auto6.uasset'
+[2022.08.10-18.03.01:604][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable44] ([1] browsable assets)...
+[2022.08.10-18.03.01:621][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable44.Cafeteria_Scene_Final_pTable44]
+[2022.08.10-18.03.01:621][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable44]
+[2022.08.10-18.03.01:630][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable44_AEDA0CFA94B871C02431D1A855D0DBABA.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable44_Auto6.uasset'
+[2022.08.10-18.03.01:631][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable45] ([1] browsable assets)...
+[2022.08.10-18.03.01:649][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable45.Cafeteria_Scene_Final_pTable45]
+[2022.08.10-18.03.01:649][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable45]
+[2022.08.10-18.03.01:659][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable45_A94C5F6D440AC86F4617D119160478597.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable45_Auto6.uasset'
+[2022.08.10-18.03.01:661][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable46] ([1] browsable assets)...
+[2022.08.10-18.03.01:677][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable46.Cafeteria_Scene_Final_pTable46]
+[2022.08.10-18.03.01:678][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable46]
+[2022.08.10-18.03.01:689][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable46_AF4F70D1B4B33FBB913F8C1B0A1584446.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable46_Auto6.uasset'
+[2022.08.10-18.03.01:689][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable47] ([1] browsable assets)...
+[2022.08.10-18.03.01:705][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable47.Cafeteria_Scene_Final_pTable47]
+[2022.08.10-18.03.01:706][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable47]
+[2022.08.10-18.03.01:716][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable47_A0F1A731049ADABC30DF9299452CD2B80.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable47_Auto6.uasset'
+[2022.08.10-18.03.01:717][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable48] ([1] browsable assets)...
+[2022.08.10-18.03.01:733][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable48.Cafeteria_Scene_Final_pTable48]
+[2022.08.10-18.03.01:733][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable48]
+[2022.08.10-18.03.01:743][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable48_AE34AA3DD4EF8A68109DE6D9B23837CAE.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable48_Auto6.uasset'
+[2022.08.10-18.03.01:744][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable49] ([1] browsable assets)...
+[2022.08.10-18.03.01:761][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pTable49.Cafeteria_Scene_Final_pTable49]
+[2022.08.10-18.03.01:761][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable49]
+[2022.08.10-18.03.01:772][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pTable49_A20C801384B472B518CA0CEBAA174B878.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pTable49_Auto6.uasset'
+[2022.08.10-18.03.01:773][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair15] ([1] browsable assets)...
+[2022.08.10-18.03.01:790][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair15.Cafeteria_Scene_Final_pChair15]
+[2022.08.10-18.03.01:790][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair15]
+[2022.08.10-18.03.01:799][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair15_A09A95E594E577148CE48969C908420BB.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair15_Auto6.uasset'
+[2022.08.10-18.03.01:800][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair16] ([1] browsable assets)...
+[2022.08.10-18.03.01:818][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair16.Cafeteria_Scene_Final_pChair16]
+[2022.08.10-18.03.01:818][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair16]
+[2022.08.10-18.03.01:827][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair16_ACDEAF72F46D8F3B656CA428EA0603D16.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair16_Auto6.uasset'
+[2022.08.10-18.03.01:828][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair17] ([1] browsable assets)...
+[2022.08.10-18.03.01:845][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair17.Cafeteria_Scene_Final_pChair17]
+[2022.08.10-18.03.01:845][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair17]
+[2022.08.10-18.03.01:856][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair17_A7B7B4FAC4B8BADB6F59DEDB42DF7BBC8.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair17_Auto6.uasset'
+[2022.08.10-18.03.01:857][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair18] ([1] browsable assets)...
+[2022.08.10-18.03.01:873][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair18.Cafeteria_Scene_Final_pChair18]
+[2022.08.10-18.03.01:874][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair18]
+[2022.08.10-18.03.01:884][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair18_A6B583CB34F8767A4D64DDDA761919312.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair18_Auto6.uasset'
+[2022.08.10-18.03.01:885][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair19] ([1] browsable assets)...
+[2022.08.10-18.03.01:901][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair19.Cafeteria_Scene_Final_pChair19]
+[2022.08.10-18.03.01:902][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair19]
+[2022.08.10-18.03.01:911][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair19_AD5C0C2E14A672C43B8623F861D4595D4.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair19_Auto6.uasset'
+[2022.08.10-18.03.01:912][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair20] ([1] browsable assets)...
+[2022.08.10-18.03.01:929][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair20.Cafeteria_Scene_Final_pChair20]
+[2022.08.10-18.03.01:929][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair20]
+[2022.08.10-18.03.01:938][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair20_A37A530F2497CEE08301148B00D763702.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair20_Auto6.uasset'
+[2022.08.10-18.03.01:939][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair21] ([1] browsable assets)...
+[2022.08.10-18.03.01:956][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair21.Cafeteria_Scene_Final_pChair21]
+[2022.08.10-18.03.01:957][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair21]
+[2022.08.10-18.03.01:966][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair21_A8BDDDE034857AA8AE9767587E28AD046.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair21_Auto6.uasset'
+[2022.08.10-18.03.01:967][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair22] ([1] browsable assets)...
+[2022.08.10-18.03.01:984][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair22.Cafeteria_Scene_Final_pChair22]
+[2022.08.10-18.03.01:984][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair22]
+[2022.08.10-18.03.01:994][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair22_AD3339CB94223F9F0A2A7778A647C7FB7.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair22_Auto6.uasset'
+[2022.08.10-18.03.01:995][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair23] ([1] browsable assets)...
+[2022.08.10-18.03.02:011][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair23.Cafeteria_Scene_Final_pChair23]
+[2022.08.10-18.03.02:011][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair23]
+[2022.08.10-18.03.02:021][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair23_A19F1CE44412097DBDAD98E85BE3AABD8.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair23_Auto6.uasset'
+[2022.08.10-18.03.02:021][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair24] ([1] browsable assets)...
+[2022.08.10-18.03.02:039][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair24.Cafeteria_Scene_Final_pChair24]
+[2022.08.10-18.03.02:039][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair24]
+[2022.08.10-18.03.02:048][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair24_AB5F6A03341928E8A1E2B25B27574C749.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair24_Auto6.uasset'
+[2022.08.10-18.03.02:048][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair25] ([1] browsable assets)...
+[2022.08.10-18.03.02:066][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair25.Cafeteria_Scene_Final_pChair25]
+[2022.08.10-18.03.02:066][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair25]
+[2022.08.10-18.03.02:076][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair25_A1C3D8C4E4CE5040BF89C5F991CB77BF4.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair25_Auto6.uasset'
+[2022.08.10-18.03.02:077][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair26] ([1] browsable assets)...
+[2022.08.10-18.03.02:094][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair26.Cafeteria_Scene_Final_pChair26]
+[2022.08.10-18.03.02:094][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair26]
+[2022.08.10-18.03.02:104][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair26_A8CAE409F48FF80502A28B7AED38EF3ED.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair26_Auto6.uasset'
+[2022.08.10-18.03.02:104][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair27] ([1] browsable assets)...
+[2022.08.10-18.03.02:121][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair27.Cafeteria_Scene_Final_pChair27]
+[2022.08.10-18.03.02:121][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair27]
+[2022.08.10-18.03.02:130][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair27_A43DBC83D4A6AF950E06898ABD3B835B9.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair27_Auto6.uasset'
+[2022.08.10-18.03.02:130][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair28] ([1] browsable assets)...
+[2022.08.10-18.03.02:148][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair28.Cafeteria_Scene_Final_pChair28]
+[2022.08.10-18.03.02:148][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair28]
+[2022.08.10-18.03.02:157][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair28_AB79E331E42E8249C47EB58A80BED0965.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair28_Auto6.uasset'
+[2022.08.10-18.03.02:158][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair29] ([1] browsable assets)...
+[2022.08.10-18.03.02:176][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair29.Cafeteria_Scene_Final_pChair29]
+[2022.08.10-18.03.02:176][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair29]
+[2022.08.10-18.03.02:185][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair29_AF965F8E3491931344E1C61AF806BDEFA.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair29_Auto6.uasset'
+[2022.08.10-18.03.02:186][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair30] ([1] browsable assets)...
+[2022.08.10-18.03.02:203][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair30.Cafeteria_Scene_Final_pChair30]
+[2022.08.10-18.03.02:204][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair30]
+[2022.08.10-18.03.02:212][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair30_AC4516CF24BBAB9F68DE60B88B87E7747.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair30_Auto6.uasset'
+[2022.08.10-18.03.02:213][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair31] ([1] browsable assets)...
+[2022.08.10-18.03.02:231][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair31.Cafeteria_Scene_Final_pChair31]
+[2022.08.10-18.03.02:231][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair31]
+[2022.08.10-18.03.02:239][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair31_AFF825ADE4196C8BA7BE082AED2E10F2B.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair31_Auto6.uasset'
+[2022.08.10-18.03.02:240][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair32] ([1] browsable assets)...
+[2022.08.10-18.03.02:258][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair32.Cafeteria_Scene_Final_pChair32]
+[2022.08.10-18.03.02:258][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair32]
+[2022.08.10-18.03.02:267][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair32_AB426F1A0435EA2E935B74BB5751E5F09.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair32_Auto6.uasset'
+[2022.08.10-18.03.02:268][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair33] ([1] browsable assets)...
+[2022.08.10-18.03.02:287][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair33.Cafeteria_Scene_Final_pChair33]
+[2022.08.10-18.03.02:287][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair33]
+[2022.08.10-18.03.02:296][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair33_AFCB214FE4432F71868711EA2C7B997F5.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair33_Auto6.uasset'
+[2022.08.10-18.03.02:297][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair34] ([1] browsable assets)...
+[2022.08.10-18.03.02:315][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair34.Cafeteria_Scene_Final_pChair34]
+[2022.08.10-18.03.02:315][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair34]
+[2022.08.10-18.03.02:323][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair34_A0AD1CBBB43018C4CC167929242ED7DD6.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair34_Auto6.uasset'
+[2022.08.10-18.03.02:325][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair35] ([1] browsable assets)...
+[2022.08.10-18.03.02:342][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair35.Cafeteria_Scene_Final_pChair35]
+[2022.08.10-18.03.02:342][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair35]
+[2022.08.10-18.03.02:353][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair35_A4D22677642904FAFEA49EE9445673F60.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair35_Auto6.uasset'
+[2022.08.10-18.03.02:354][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair36] ([1] browsable assets)...
+[2022.08.10-18.03.02:371][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair36.Cafeteria_Scene_Final_pChair36]
+[2022.08.10-18.03.02:372][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair36]
+[2022.08.10-18.03.02:382][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair36_A9CDCF09545C6A60D3691CC91D10F1326.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair36_Auto6.uasset'
+[2022.08.10-18.03.02:383][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair37] ([1] browsable assets)...
+[2022.08.10-18.03.02:402][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair37.Cafeteria_Scene_Final_pChair37]
+[2022.08.10-18.03.02:402][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair37]
+[2022.08.10-18.03.02:412][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair37_A93E21A0344B886E346F7F89032B87CE0.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair37_Auto6.uasset'
+[2022.08.10-18.03.02:414][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair38] ([1] browsable assets)...
+[2022.08.10-18.03.02:432][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair38.Cafeteria_Scene_Final_pChair38]
+[2022.08.10-18.03.02:432][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair38]
+[2022.08.10-18.03.02:443][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair38_A8104BEA84DA2AE6D353F689338313901.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair38_Auto6.uasset'
+[2022.08.10-18.03.02:444][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair39] ([1] browsable assets)...
+[2022.08.10-18.03.02:462][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair39.Cafeteria_Scene_Final_pChair39]
+[2022.08.10-18.03.02:462][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair39]
+[2022.08.10-18.03.02:474][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair39_A6AA3AABD4185A056A27F24AF7CEBB3FF.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair39_Auto6.uasset'
+[2022.08.10-18.03.02:477][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair40] ([1] browsable assets)...
+[2022.08.10-18.03.02:495][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair40.Cafeteria_Scene_Final_pChair40]
+[2022.08.10-18.03.02:495][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair40]
+[2022.08.10-18.03.02:505][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair40_AAB676EC84C3C3DCFA57117B17FCB66A2.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair40_Auto6.uasset'
+[2022.08.10-18.03.02:506][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair41] ([1] browsable assets)...
+[2022.08.10-18.03.02:523][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair41.Cafeteria_Scene_Final_pChair41]
+[2022.08.10-18.03.02:523][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair41]
+[2022.08.10-18.03.02:533][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair41_AD51866984A86735FDEDD30B3309EB3C1.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair41_Auto6.uasset'
+[2022.08.10-18.03.02:534][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair42] ([1] browsable assets)...
+[2022.08.10-18.03.02:551][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair42.Cafeteria_Scene_Final_pChair42]
+[2022.08.10-18.03.02:551][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair42]
+[2022.08.10-18.03.02:561][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair42_A75F3890A414A42886EEE1097D5EFC875.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair42_Auto6.uasset'
+[2022.08.10-18.03.02:561][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair43] ([1] browsable assets)...
+[2022.08.10-18.03.02:579][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair43.Cafeteria_Scene_Final_pChair43]
+[2022.08.10-18.03.02:579][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair43]
+[2022.08.10-18.03.02:588][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair43_ADA66F64842D3BBD1E9A92E94E8D1502E.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair43_Auto6.uasset'
+[2022.08.10-18.03.02:589][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair44] ([1] browsable assets)...
+[2022.08.10-18.03.02:606][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair44.Cafeteria_Scene_Final_pChair44]
+[2022.08.10-18.03.02:606][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair44]
+[2022.08.10-18.03.02:616][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair44_A7C31D24841957E727D5D2A9A499FC530.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair44_Auto6.uasset'
+[2022.08.10-18.03.02:617][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair45] ([1] browsable assets)...
+[2022.08.10-18.03.02:634][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair45.Cafeteria_Scene_Final_pChair45]
+[2022.08.10-18.03.02:634][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair45]
+[2022.08.10-18.03.02:643][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair45_AE00022AE4B14E918DE625E854A603B6F.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair45_Auto6.uasset'
+[2022.08.10-18.03.02:644][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair46] ([1] browsable assets)...
+[2022.08.10-18.03.02:662][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair46.Cafeteria_Scene_Final_pChair46]
+[2022.08.10-18.03.02:662][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair46]
+[2022.08.10-18.03.02:671][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair46_A64289A7141D56BCE865F52B070356B02.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair46_Auto6.uasset'
+[2022.08.10-18.03.02:673][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair47] ([1] browsable assets)...
+[2022.08.10-18.03.02:690][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair47.Cafeteria_Scene_Final_pChair47]
+[2022.08.10-18.03.02:690][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair47]
+[2022.08.10-18.03.02:698][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair47_A54807940485E0033784F23BD5F58AF0C.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair47_Auto6.uasset'
+[2022.08.10-18.03.02:699][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair48] ([1] browsable assets)...
+[2022.08.10-18.03.02:716][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair48.Cafeteria_Scene_Final_pChair48]
+[2022.08.10-18.03.02:716][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair48]
+[2022.08.10-18.03.02:725][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair48_AD87ACCD84BFE5062939CB1A4287C5F07.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair48_Auto6.uasset'
+[2022.08.10-18.03.02:726][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair49] ([1] browsable assets)...
+[2022.08.10-18.03.02:743][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair49.Cafeteria_Scene_Final_pChair49]
+[2022.08.10-18.03.02:743][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair49]
+[2022.08.10-18.03.02:752][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair49_A3994FAF84AFE118C654DE3A3AA247E5D.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair49_Auto6.uasset'
+[2022.08.10-18.03.02:753][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair50] ([1] browsable assets)...
+[2022.08.10-18.03.02:770][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair50.Cafeteria_Scene_Final_pChair50]
+[2022.08.10-18.03.02:770][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair50]
+[2022.08.10-18.03.02:779][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair50_ABA5ACFC94C8EC87B50CDBAA399D63052.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair50_Auto6.uasset'
+[2022.08.10-18.03.02:780][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair51] ([1] browsable assets)...
+[2022.08.10-18.03.02:798][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair51.Cafeteria_Scene_Final_pChair51]
+[2022.08.10-18.03.02:798][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair51]
+[2022.08.10-18.03.02:807][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair51_A6C17BC70475BD2FC0C2AD0B827DAA21B.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair51_Auto6.uasset'
+[2022.08.10-18.03.02:807][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair52] ([1] browsable assets)...
+[2022.08.10-18.03.02:824][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair52.Cafeteria_Scene_Final_pChair52]
+[2022.08.10-18.03.02:824][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair52]
+[2022.08.10-18.03.02:834][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair52_A27027F7C412C7F95F700D9995A619757.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair52_Auto6.uasset'
+[2022.08.10-18.03.02:835][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair53] ([1] browsable assets)...
+[2022.08.10-18.03.02:851][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair53.Cafeteria_Scene_Final_pChair53]
+[2022.08.10-18.03.02:851][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair53]
+[2022.08.10-18.03.02:861][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair53_ACFADD60D4DA5DBA86C747AB8C5ED992E.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair53_Auto6.uasset'
+[2022.08.10-18.03.02:861][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair54] ([1] browsable assets)...
+[2022.08.10-18.03.02:879][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair54.Cafeteria_Scene_Final_pChair54]
+[2022.08.10-18.03.02:879][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair54]
+[2022.08.10-18.03.02:890][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair54_AEED24575430AD26C2A9E10AFF7959C3F.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair54_Auto6.uasset'
+[2022.08.10-18.03.02:891][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair55] ([1] browsable assets)...
+[2022.08.10-18.03.02:908][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair55.Cafeteria_Scene_Final_pChair55]
+[2022.08.10-18.03.02:908][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair55]
+[2022.08.10-18.03.02:917][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair55_A575CA0934D50668E5ED7C88FB7BA33B5.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair55_Auto6.uasset'
+[2022.08.10-18.03.02:918][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair56] ([1] browsable assets)...
+[2022.08.10-18.03.02:936][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair56.Cafeteria_Scene_Final_pChair56]
+[2022.08.10-18.03.02:936][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair56]
+[2022.08.10-18.03.02:946][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair56_AD9F37F4441EB737A7183B3B987D25A6F.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair56_Auto6.uasset'
+[2022.08.10-18.03.02:948][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair57] ([1] browsable assets)...
+[2022.08.10-18.03.02:964][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair57.Cafeteria_Scene_Final_pChair57]
+[2022.08.10-18.03.02:964][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair57]
+[2022.08.10-18.03.02:974][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair57_A49CE9DC34D0785A825EFF2966D9F4EE6.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair57_Auto6.uasset'
+[2022.08.10-18.03.02:976][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair58] ([1] browsable assets)...
+[2022.08.10-18.03.02:993][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair58.Cafeteria_Scene_Final_pChair58]
+[2022.08.10-18.03.02:994][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair58]
+[2022.08.10-18.03.03:005][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair58_A34C93D19479CD91D6513D68C85FEAC37.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair58_Auto6.uasset'
+[2022.08.10-18.03.03:007][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair59] ([1] browsable assets)...
+[2022.08.10-18.03.03:024][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair59.Cafeteria_Scene_Final_pChair59]
+[2022.08.10-18.03.03:024][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair59]
+[2022.08.10-18.03.03:035][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair59_ACD5519774E22DDC27A7B9CAEC8AF149B.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair59_Auto6.uasset'
+[2022.08.10-18.03.03:037][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair60] ([1] browsable assets)...
+[2022.08.10-18.03.03:053][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair60.Cafeteria_Scene_Final_pChair60]
+[2022.08.10-18.03.03:053][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair60]
+[2022.08.10-18.03.03:064][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair60_AB40D895241C21506F4FE1F8CF0E472CE.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair60_Auto6.uasset'
+[2022.08.10-18.03.03:066][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair61] ([1] browsable assets)...
+[2022.08.10-18.03.03:083][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair61.Cafeteria_Scene_Final_pChair61]
+[2022.08.10-18.03.03:083][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair61]
+[2022.08.10-18.03.03:095][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair61_ABBD5C8C54307D6BEFC4E53AE3F52E11B.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair61_Auto6.uasset'
+[2022.08.10-18.03.03:097][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair62] ([1] browsable assets)...
+[2022.08.10-18.03.03:115][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair62.Cafeteria_Scene_Final_pChair62]
+[2022.08.10-18.03.03:115][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair62]
+[2022.08.10-18.03.03:125][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair62_AF601586348DBF1C794B24CA9F85C0192.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair62_Auto6.uasset'
+[2022.08.10-18.03.03:127][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair63] ([1] browsable assets)...
+[2022.08.10-18.03.03:145][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair63.Cafeteria_Scene_Final_pChair63]
+[2022.08.10-18.03.03:145][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair63]
+[2022.08.10-18.03.03:157][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair63_A33C4BF05464A6DAB1D5046A2C75EB5B1.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair63_Auto6.uasset'
+[2022.08.10-18.03.03:158][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair64] ([1] browsable assets)...
+[2022.08.10-18.03.03:176][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pChair64.Cafeteria_Scene_Final_pChair64]
+[2022.08.10-18.03.03:176][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair64]
+[2022.08.10-18.03.03:191][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pChair64_A74F4694745424074A04EB48B1F296AFC.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pChair64_Auto6.uasset'
+[2022.08.10-18.03.03:192][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_polySurface276] ([1] browsable assets)...
+[2022.08.10-18.03.03:208][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_polySurface276.Cafeteria_Scene_Final_polySurface276]
+[2022.08.10-18.03.03:208][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_polySurface276]
+[2022.08.10-18.03.03:223][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_polySurfac621A381B46C0F34580C3A78E935ACA7B.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_polySurface276_Auto6.uasset'
+[2022.08.10-18.03.03:225][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_cups] ([1] browsable assets)...
+[2022.08.10-18.03.03:243][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_cups.Cafeteria_Scene_Final_cups]
+[2022.08.10-18.03.03:243][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_cups]
+[2022.08.10-18.03.03:363][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_cups_Auto6C3964D1C48A52EB0DF4534A3E3E378F1.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_cups_Auto6.uasset'
+[2022.08.10-18.03.03:364][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_white_bread] ([1] browsable assets)...
+[2022.08.10-18.03.03:389][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_white_bread.Cafeteria_Scene_Final_white_bread]
+[2022.08.10-18.03.03:389][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_white_bread]
+[2022.08.10-18.03.03:507][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_white_brea64A5A3264C1EC2457F69309EE3E6B05C.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_white_bread_Auto6.uasset'
+[2022.08.10-18.03.03:508][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_counter_Benchtop2] ([1] browsable assets)...
+[2022.08.10-18.03.03:533][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_counter_Benchtop2.Cafeteria_Scene_Final_counter_Benchtop2]
+[2022.08.10-18.03.03:533][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_counter_Benchtop2]
+[2022.08.10-18.03.03:541][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_counter_Be37EDF2A84ECCFC900C50CDBD83B581C2.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_counter_Benchtop2_Auto6.uasset'
+[2022.08.10-18.03.03:542][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Cash_register] ([1] browsable assets)...
+[2022.08.10-18.03.03:569][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Cash_register.Cafeteria_Scene_Final_Cash_register]
+[2022.08.10-18.03.03:569][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Cash_register]
+[2022.08.10-18.03.03:577][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Cash_regis611E05C741A809AD053501A596E16C89.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Cash_register_Auto6.uasset'
+[2022.08.10-18.03.03:578][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Coffee_machine] ([1] browsable assets)...
+[2022.08.10-18.03.03:604][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Coffee_machine.Cafeteria_Scene_Final_Coffee_machine]
+[2022.08.10-18.03.03:604][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Coffee_machine]
+[2022.08.10-18.03.03:802][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Coffee_mac8A29137043BB8F28A79290B282FA8C08.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Coffee_machine_Auto6.uasset'
+[2022.08.10-18.03.03:803][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_knife_holders] ([1] browsable assets)...
+[2022.08.10-18.03.03:829][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_knife_holders.Cafeteria_Scene_Final_knife_holders]
+[2022.08.10-18.03.03:829][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_knife_holders]
+[2022.08.10-18.03.03:855][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_knife_holdBF09E38641E1A4096CEE8C94760E7155.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_knife_holders_Auto6.uasset'
+[2022.08.10-18.03.03:857][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_01] ([1] browsable assets)...
+[2022.08.10-18.03.03:882][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_01.Cafeteria_Scene_Final_White_Pot_01]
+[2022.08.10-18.03.03:882][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_01]
+[2022.08.10-18.03.03:909][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_White_Pot_CD02F5174833D59F58A604BBB1DC1CE0.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_01_Auto6.uasset'
+[2022.08.10-18.03.03:910][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Flower_pot1_White_Pot_03] ([1] browsable assets)...
+[2022.08.10-18.03.03:935][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Flower_pot1_White_Pot_03.Cafeteria_Scene_Final_Flower_pot1_White_Pot_03]
+[2022.08.10-18.03.03:935][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Flower_pot1_White_Pot_03]
+[2022.08.10-18.03.03:962][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Flower_pot89647E3141D57F73E22570A4DC851FCA.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Flower_pot1_White_Pot_03_Auto6.uasset'
+[2022.08.10-18.03.03:963][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_03] ([1] browsable assets)...
+[2022.08.10-18.03.03:988][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_03.Cafeteria_Scene_Final_White_Pot_03]
+[2022.08.10-18.03.03:988][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_03]
+[2022.08.10-18.03.04:017][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_White_Pot_A6F0EAE44BAEE4B0DD1B4D82653F69A8.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_03_Auto6.uasset'
+[2022.08.10-18.03.04:018][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_05] ([1] browsable assets)...
+[2022.08.10-18.03.04:043][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_05.Cafeteria_Scene_Final_White_Pot_05]
+[2022.08.10-18.03.04:043][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_05]
+[2022.08.10-18.03.04:070][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_White_Pot_83CD6E6049FAA27BC04CD68CFF6DAB57.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_05_Auto6.uasset'
+[2022.08.10-18.03.04:071][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_06] ([1] browsable assets)...
+[2022.08.10-18.03.04:096][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_06.Cafeteria_Scene_Final_White_Pot_06]
+[2022.08.10-18.03.04:096][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_06]
+[2022.08.10-18.03.04:123][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_White_Pot_D839557645499B84BF99349773276171.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_06_Auto6.uasset'
+[2022.08.10-18.03.04:124][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Roof] ([1] browsable assets)...
+[2022.08.10-18.03.04:150][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Roof.Cafeteria_Scene_Final_Roof]
+[2022.08.10-18.03.04:150][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Roof]
+[2022.08.10-18.03.04:171][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Roof_Auto677D95BB543252AB5CA57D691EA694FC1.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Roof_Auto6.uasset'
+[2022.08.10-18.03.04:172][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_polySurface500] ([1] browsable assets)...
+[2022.08.10-18.03.04:199][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_polySurface500.Cafeteria_Scene_Final_polySurface500]
+[2022.08.10-18.03.04:199][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_polySurface500]
+[2022.08.10-18.03.04:206][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_polySurfac98C856C04B33AFBD05AB72AC471CA07A.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_polySurface500_Auto6.uasset'
+[2022.08.10-18.03.04:206][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_04] ([1] browsable assets)...
+[2022.08.10-18.03.04:232][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_04.Cafeteria_Scene_Final_White_Pot_04]
+[2022.08.10-18.03.04:232][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_04]
+[2022.08.10-18.03.04:258][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_White_Pot_70EE4197443D4CECE2A238A5280A0EB8.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_White_Pot_04_Auto6.uasset'
+[2022.08.10-18.03.04:259][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Twix_stand] ([1] browsable assets)...
+[2022.08.10-18.03.04:284][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Twix_stand.Cafeteria_Scene_Final_Twix_stand]
+[2022.08.10-18.03.04:284][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Twix_stand]
+[2022.08.10-18.03.04:294][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Twix_stand0B7B061E4C65C1E3A55343A0AFCFA4C2.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Twix_stand_Auto6.uasset'
+[2022.08.10-18.03.04:295][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_DoorWall] ([1] browsable assets)...
+[2022.08.10-18.03.04:318][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_DoorWall.Cafeteria_Scene_Final_DoorWall]
+[2022.08.10-18.03.04:319][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_DoorWall]
+[2022.08.10-18.03.04:327][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_DoorWall_ABBD89723448A7358FCB3E8935A1947CD.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_DoorWall_Auto6.uasset'
+[2022.08.10-18.03.04:328][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Stand] ([1] browsable assets)...
+[2022.08.10-18.03.04:359][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Stand.Cafeteria_Scene_Final_Stand]
+[2022.08.10-18.03.04:359][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Stand]
+[2022.08.10-18.03.06:416][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Stand_AutoCA9390B34ED241510812ADABF7F1B37E.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Stand_Auto6.uasset'
+[2022.08.10-18.03.06:417][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_chocstand] ([1] browsable assets)...
+[2022.08.10-18.03.06:445][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_chocstand.Cafeteria_Scene_Final_chocstand]
+[2022.08.10-18.03.06:446][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_chocstand]
+[2022.08.10-18.03.06:526][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_chocstand_ECE246DD49A375E975A50D849BC248C6.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_chocstand_Auto6.uasset'
+[2022.08.10-18.03.06:528][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_crassant_stand] ([1] browsable assets)...
+[2022.08.10-18.03.06:556][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_crassant_stand.Cafeteria_Scene_Final_crassant_stand]
+[2022.08.10-18.03.06:556][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_crassant_stand]
+[2022.08.10-18.03.06:582][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_crassant_s406462074502D2F6548FA39C711DA3D1.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_crassant_stand_Auto6.uasset'
+[2022.08.10-18.03.06:583][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pCube5] ([1] browsable assets)...
+[2022.08.10-18.03.06:612][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_pCube5.Cafeteria_Scene_Final_pCube5]
+[2022.08.10-18.03.06:612][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_pCube5]
+[2022.08.10-18.03.06:624][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_pCube5_Aut47853B5C42FD83127C7974A0A613F38E.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_pCube5_Auto6.uasset'
+[2022.08.10-18.03.06:625][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_machine] ([1] browsable assets)...
+[2022.08.10-18.03.06:654][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_machine.Cafeteria_Scene_Final_machine]
+[2022.08.10-18.03.06:654][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_machine]
+[2022.08.10-18.03.06:680][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_machine_AuF2BCB44C4A2225373AE31BA56503BEEC.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_machine_Auto6.uasset'
+[2022.08.10-18.03.06:681][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_mustard] ([1] browsable assets)...
+[2022.08.10-18.03.06:708][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_mustard.Cafeteria_Scene_Final_mustard]
+[2022.08.10-18.03.06:708][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_mustard]
+[2022.08.10-18.03.06:727][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_mustard_AuA964E1CE488F5988126D888DE31FFCD5.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_mustard_Auto6.uasset'
+[2022.08.10-18.03.06:728][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_mayo] ([1] browsable assets)...
+[2022.08.10-18.03.06:756][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_mayo.Cafeteria_Scene_Final_mayo]
+[2022.08.10-18.03.06:756][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_mayo]
+[2022.08.10-18.03.06:775][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_mayo_Auto65A8FD211496EF8F618310DB79848B3BE.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_mayo_Auto6.uasset'
+[2022.08.10-18.03.06:776][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_ketchup] ([1] browsable assets)...
+[2022.08.10-18.03.06:804][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_ketchup.Cafeteria_Scene_Final_ketchup]
+[2022.08.10-18.03.06:804][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_ketchup]
+[2022.08.10-18.03.06:832][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_ketchup_AuAA0C3D744A6FE52D05A47E8BF0BE1076.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_ketchup_Auto6.uasset'
+[2022.08.10-18.03.06:834][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Foodstand] ([1] browsable assets)...
+[2022.08.10-18.03.06:862][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Foodstand.Cafeteria_Scene_Final_Foodstand]
+[2022.08.10-18.03.06:862][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Foodstand]
+[2022.08.10-18.03.07:194][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Foodstand_E5FE73C1477FC6E9D7DE73804FBC0CC5.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Foodstand_Auto6.uasset'
+[2022.08.10-18.03.07:195][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Floor] ([1] browsable assets)...
+[2022.08.10-18.03.07:224][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Floor.Cafeteria_Scene_Final_Floor]
+[2022.08.10-18.03.07:224][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Floor]
+[2022.08.10-18.03.07:231][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Floor_Auto429DECA841CE56F3BB10E4B2DD49E080.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Floor_Auto6.uasset'
+[2022.08.10-18.03.07:232][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles6] ([1] browsable assets)...
+[2022.08.10-18.03.07:260][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles6.Cafeteria_Scene_Final_Bottles6]
+[2022.08.10-18.03.07:260][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles6]
+[2022.08.10-18.03.07:447][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Bottles6_A0B6F5F1D4E17BE6C8B2FBCA3EAC64EE5.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles6_Auto6.uasset'
+[2022.08.10-18.03.07:449][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles5] ([1] browsable assets)...
+[2022.08.10-18.03.07:477][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles5.Cafeteria_Scene_Final_Bottles5]
+[2022.08.10-18.03.07:477][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles5]
+[2022.08.10-18.03.07:638][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Bottles5_A07D867B841294AEC045E168717461AEA.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles5_Auto6.uasset'
+[2022.08.10-18.03.07:639][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles3] ([1] browsable assets)...
+[2022.08.10-18.03.07:667][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles3.Cafeteria_Scene_Final_Bottles3]
+[2022.08.10-18.03.07:667][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles3]
+[2022.08.10-18.03.07:844][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Bottles3_A31D593334A86ADE78D460A8439735222.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles3_Auto6.uasset'
+[2022.08.10-18.03.07:845][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles4] ([1] browsable assets)...
+[2022.08.10-18.03.07:876][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles4.Cafeteria_Scene_Final_Bottles4]
+[2022.08.10-18.03.07:876][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles4]
+[2022.08.10-18.03.08:080][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Bottles4_A80DBCA1642E0962197AAD8A8E30481C4.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles4_Auto6.uasset'
+[2022.08.10-18.03.08:081][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles2] ([1] browsable assets)...
+[2022.08.10-18.03.08:111][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles2.Cafeteria_Scene_Final_Bottles2]
+[2022.08.10-18.03.08:111][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles2]
+[2022.08.10-18.03.08:290][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Bottles2_A470706EE45218CF1A723A7828DD5AE35.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles2_Auto6.uasset'
+[2022.08.10-18.03.08:291][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles] ([1] browsable assets)...
+[2022.08.10-18.03.08:320][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles.Cafeteria_Scene_Final_Bottles]
+[2022.08.10-18.03.08:320][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles]
+[2022.08.10-18.03.08:509][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Bottles_Au5570BF8D4EF1DED6C5CAFABB772B401A.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Bottles_Auto6.uasset'
+[2022.08.10-18.03.08:511][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Fridge1] ([1] browsable assets)...
+[2022.08.10-18.03.08:539][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Fridge1.Cafeteria_Scene_Final_Fridge1]
+[2022.08.10-18.03.08:539][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Fridge1]
+[2022.08.10-18.03.08:549][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Fridge1_AuF87E902743F0D2014B3B1A9BD8B69ACE.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Fridge1_Auto6.uasset'
+[2022.08.10-18.03.08:549][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_counter] ([1] browsable assets)...
+[2022.08.10-18.03.08:577][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_counter.Cafeteria_Scene_Final_counter]
+[2022.08.10-18.03.08:577][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_counter]
+[2022.08.10-18.03.08:587][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_counter_Au763FA39C4BE9A217711386A49AC79ECE.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_counter_Auto6.uasset'
+[2022.08.10-18.03.08:588][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Wall4] ([1] browsable assets)...
+[2022.08.10-18.03.08:616][359]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/Cafeteria_Scene_Final_Wall4.Cafeteria_Scene_Final_Wall4]
+[2022.08.10-18.03.08:616][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/Cafeteria_Scene_Final_Wall4]
+[2022.08.10-18.03.08:625][359]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Wall4_Auto5CDA9CB046CB2FEE743B22A38FB32458.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/Cafeteria_Scene_Final_Wall4_Auto6.uasset'
+[2022.08.10-18.03.08:625][359]LogFileHelpers: Auto-saving content packages took 8.201
+[2022.08.10-18.17.51:470][544]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\elsie\OneDrive\Desktop\Real World\Cafeteria\New windows For Cafeteria.fbx)
+[2022.08.10-18.17.51:490][544]LogFbx: Loading FBX Scene from C:\Users\elsie\OneDrive\Desktop\Real World\Cafeteria\New windows For Cafeteria.fbx
+[2022.08.10-18.17.51:502][544]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.10-18.17.56:380][544]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.08.10-18.17.56:420][544]LogMaterial: Display: Missing cached shadermap for grey2 in PCD3D_SM5, Default, SM5 (DDC key hash: 4D27700173805B5D349CA9566B9AAE586F3F89EF), compiling. 
+[2022.08.10-18.17.56:429][544]LogMaterial: Display: Missing cached shadermap for silver1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8A5E5F463C4BA6F111DA6B45BBA27C6AA07D082A), compiling. 
+[2022.08.10-18.17.56:437][544]LogMaterial: Display: Missing cached shadermap for Glass4 in PCD3D_SM5, Default, SM5 (DDC key hash: E8B9F458862C6D9C42B9B728BA6D8FB8087C8C4A), compiling. 
+[2022.08.10-18.17.56:445][544]LogMaterial: Display: Missing cached shadermap for Cream2 in PCD3D_SM5, Default, SM5 (DDC key hash: CF0736AE141E5678D3067BA8978E3DBCEF1DA3A4), compiling. 
+[2022.08.10-18.17.56:447][544]LogFbx: Display: Triangulating static mesh New_windows_For_Cafeteria
+[2022.08.10-18.17.56:467][544]LogStaticMesh: Building static mesh New_windows_For_Cafeteria_New_windows_For_Cafeteria...
+[2022.08.10-18.17.56:485][544]LogStaticMesh: Built static mesh [0.02s] /Game/CafeteriaScene/New_windows_For_Cafeteria_New_windows_For_Cafeteria.New_windows_For_Cafeteria_New_windows_For_Cafeteria
+[2022.08.10-18.17.56:488][544]LogStaticMesh: Warning: New_windows_For_Cafeteria_New_windows_For_Cafeteria has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.08.10-18.17.56:509][544]LogFbx: Display: Triangulating static mesh New_windows_For_Cafeteria1
+[2022.08.10-18.17.56:536][544]LogStaticMesh: Building static mesh New_windows_For_Cafeteria_New_windows_For_Cafeteria1...
+[2022.08.10-18.17.56:556][544]LogStaticMesh: Built static mesh [0.02s] /Game/CafeteriaScene/New_windows_For_Cafeteria_New_windows_For_Cafeteria1.New_windows_For_Cafeteria_New_windows_For_Cafeteria1
+[2022.08.10-18.17.59:227][544]LogMeshUtilities: Finished distance field build in 2.7s - 64x64x64 distance field, 838 triangles, Range [-0.0, 1.0], New_windows_For_Cafeteria_New_windows_For_Cafeteria
+[2022.08.10-18.18.01:530][544]LogMeshUtilities: Finished distance field build in 2.3s - 64x50x64 distance field, 838 triangles, Range [-0.0, 1.0], New_windows_For_Cafeteria_New_windows_For_Cafeteria1
+[2022.08.10-18.18.01:536][544]LogStaticMesh: Display: Main thread blocked for 4.969s for async distance field build of New_windows_For_Cafeteria_New_windows_For_Cafeteria1 to complete!  This can happen if the mesh is rebuilt excessively.
+[2022.08.10-18.18.01:553][544]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.08.10-18.18.01:553][544]FBXImport: Warning: New_windows_For_Cafeteria_New_windows_For_Cafeteria has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.08.10-18.18.02:110][549]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.10-18.18.02:110][549]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.08.10-18.18.02:110][549]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.08.10-18.18.02:110][549]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.10-18.18.02:119][549]LogShaderCompilers: Display: Submitted 20 shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.02:126][549]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2022.08.10-18.18.02:126][549]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2022.08.10-18.18.02:126][549]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2022.08.10-18.18.02:126][549]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2022.08.10-18.18.02:126][549]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2022.08.10-18.18.02:126][549]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2022.08.10-18.18.02:126][549]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.02:148][549]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.10-18.18.02:161][549]LogShaderCompilers: Display: Submitted 20 shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.02:211][550]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.10-18.18.02:216][550]LogShaderCompilers: Display: Submitted 20 shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.02:225][550]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.08.10-18.18.02:238][550]LogShaderCompilers: Display: Submitted 20 shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.02:909][583]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.08.10-18.18.02:909][583]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.10-18.18.02:909][583]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.10-18.18.02:909][583]LogShaderCompilers: Display: Total job queries 4760, among them cache hits 2148 (45.13%)
+[2022.08.10-18.18.02:909][583]LogShaderCompilers: Display: Tracking 2525 distinct input hashes that result in 723 distinct outputs (28.63%)
+[2022.08.10-18.18.02:909][583]LogShaderCompilers: Display: RAM used: 6.55 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.80%
+[2022.08.10-18.18.02:909][583]LogShaderCompilers: Display: ================================================
+[2022.08.10-18.18.02:933][585]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.08.10-18.18.02:933][585]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.10-18.18.03:374][607]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.08.10-18.18.03:375][607]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.10-18.18.03:512][611]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.08.10-18.18.03:512][611]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.10-18.18.03:854][622]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.08.10-18.18.03:855][622]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.10-18.18.03:887][624]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.08.10-18.18.03:887][624]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.08.10-18.18.03:903][625]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 62
+[2022.08.10-18.18.03:903][625]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.04:074][635]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 54
+[2022.08.10-18.18.04:074][635]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.04:246][645]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 47
+[2022.08.10-18.18.04:246][645]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.04:344][651]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2022.08.10-18.18.04:344][651]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.04:410][655]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 35
+[2022.08.10-18.18.04:410][655]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.04:511][661]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 30
+[2022.08.10-18.18.04:511][661]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.04:847][681]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2022.08.10-18.18.04:847][681]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.04:897][684]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2022.08.10-18.18.04:898][684]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.06:616][785]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2022.08.10-18.18.06:616][785]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.06:934][804]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2022.08.10-18.18.06:934][804]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.07:068][812]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2022.08.10-18.18.07:068][812]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.07:675][848]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.08.10-18.18.07:675][848]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.08:141][869]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2022.08.10-18.18.08:141][869]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.08:223][874]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.08.10-18.18.08:223][874]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.08:257][876]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.08.10-18.18.08:257][876]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.08:324][880]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2022.08.10-18.18.08:324][880]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.08:352][881]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.08.10-18.18.08:352][881]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.08:477][888]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.08.10-18.18.08:477][888]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.08:641][898]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.08.10-18.18.08:641][898]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.08:714][902]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.08.10-18.18.08:714][902]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.08.10-18.18.09:763][964]LogSlate: Window 'Message Log' being destroyed
+[2022.08.10-18.18.09:767][964]LogSlate: Window 'Message Log' being destroyed
+[2022.08.10-18.18.10:805][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.08.10-18.18.10:812][ 19]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/CafeteriaF' took 0.014
+[2022.08.10-18.18.10:812][ 19]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/New_windows_For_Cafeteria_New_windows_For_Cafeteria1] ([1] browsable assets)...
+[2022.08.10-18.18.10:829][ 19]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/New_windows_For_Cafeteria_New_windows_For_Cafeteria1.New_windows_For_Cafeteria_New_windows_For_Cafeteria1]
+[2022.08.10-18.18.10:829][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/New_windows_For_Cafeteria_New_windows_For_Cafeteria1]
+[2022.08.10-18.18.10:840][ 19]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/New_windows_For_Cafeteria_New_wiB0004EDB489555BC0B376E8782AB473A.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/New_windows_For_Cafeteria_New_windows_For_Cafeteria1_Auto7.uasset'
+[2022.08.10-18.18.10:841][ 19]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CafeteriaScene/New_windows_For_Cafeteria_New_windows_For_Cafeteria] ([1] browsable assets)...
+[2022.08.10-18.18.10:852][ 19]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CafeteriaScene/New_windows_For_Cafeteria_New_windows_For_Cafeteria.New_windows_For_Cafeteria_New_windows_For_Cafeteria]
+[2022.08.10-18.18.10:852][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/CafeteriaScene/New_windows_For_Cafeteria_New_windows_For_Cafeteria]
+[2022.08.10-18.18.10:862][ 19]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/New_windows_For_Cafeteria_New_wi7DB707844DE8B9D7216F3190DDCE0E15.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Autosaves/Game/CafeteriaScene/New_windows_For_Cafeteria_New_windows_For_Cafeteria_Auto7.uasset'
+[2022.08.10-18.18.10:863][ 19]LogFileHelpers: Auto-saving content packages took 0.051
+[2022.08.10-18.18.20:737][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cafeteria_Scene_Final_Wall3)
+[2022.08.10-18.18.52:823][479]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.08.10-18.18.52:854][479]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.08.10-18.18.52:856][479]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.08.10-18.18.52:867][479]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.08.10-18.18.52:867][479]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.08.10-18.18.52:881][479]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.08.10-18.18.57:846][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.08.10-18.19.27:312][633]LogSlate: Window 'Replace References?' being destroyed
+[2022.08.10-18.19.27:322][633]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with New_windows_For_Cafeteria_New_windows_For_Cafeteria; and then delete them.
+
+Are you sure?
+[2022.08.10-18.19.27:322][633]LogSlate: Window 'Delete Assets' being destroyed
+[2022.08.10-18.19.28:285][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.08.10-18.19.30:048][633]LogSlate: Window 'Save Content' being destroyed
+[2022.08.10-18.19.30:152][633]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Wall31E528FED4B05A00D7CE3EAA1C92E95E6.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Content/CafeteriaScene/Cafeteria_Scene_Final_Wall3.uasset'
+[2022.08.10-18.19.30:154][633]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/Cafeteria_Scene_Final_Wall4CD44973D49B86E8F33E0F688B818571E.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Content/CafeteriaScene/Cafeteria_Scene_Final_Wall4.uasset'
+[2022.08.10-18.19.30:155][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CafeteriaF" FILE="D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Content/Maps/CafeteriaF.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.10-18.19.30:162][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.08.10-18.19.30:205][633]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/CafeteriaFC2DA9B4640CF9A349FCC61BC84013020.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Content/Maps/CafeteriaF.umap'
+[2022.08.10-18.19.30:214][633]LogFileHelpers: Saving map 'CafeteriaF' took 0.059
+[2022.08.10-18.19.30:228][633]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.10-18.19.30:228][633]LogContentValidation: Display: Validating World /Game/Maps/CafeteriaF.CafeteriaF
+[2022.08.10-18.19.30:228][633]LogContentValidation: Display: Validating ObjectRedirector /Game/CafeteriaScene/Cafeteria_Scene_Final_Wall4.Cafeteria_Scene_Final_Wall4
+[2022.08.10-18.19.30:228][633]LogContentValidation: Display: Validating ObjectRedirector /Game/CafeteriaScene/Cafeteria_Scene_Final_Wall3.Cafeteria_Scene_Final_Wall3
+[2022.08.10-18.19.37:946][ 60]LogActorFactory: Actor Factory created New_windows_For_Cafeteria_New_windows_For_Cafeteria
+[2022.08.10-18.19.42:104][298]LogActorFactory: Actor Factory created New_windows_For_Cafeteria_New_windows_For_Cafeteria1
+[2022.08.10-18.19.44:436][436]LogActorFactory: Actor Factory created New_windows_For_Cafeteria_New_windows_For_Cafeteria1
+[2022.08.10-18.19.48:093][649]LogActorFactory: Actor Factory created New_windows_For_Cafeteria_New_windows_For_Cafeteria1
+[2022.08.10-18.19.52:280][898]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.08.10-18.20.10:333][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (New_windows_For_Cafeteria_New_windows_For_Cafeteria1)
+[2022.08.10-18.20.18:987][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (New_windows_For_Cafeteria_New_windows_For_Cafeteria1)
+[2022.08.10-18.20.59:656][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (New_windows_For_Cafeteria_New_windows_For_Cafeteria1)
+[2022.08.10-18.21.09:739][481]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2022.08.10-18.21.13:117][661]Cmd: ACTOR BAKEPREPIVOT
+[2022.08.10-18.21.16:250][837]Cmd: TRANSACTION UNDO
+[2022.08.10-18.21.16:250][837]LogEditorTransaction: Undo Move Actors
+[2022.08.10-18.21.31:856][763]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (New_windows_For_Cafeteria_New_windows_For_Cafeteria1)
+[2022.08.10-18.21.37:427][ 86]Cmd: ACTOR BAKEPREPIVOT
+[2022.08.10-18.21.43:136][420]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.10-18.21.48:085][715]Cmd: TRANSACTION UNDO
+[2022.08.10-18.21.48:085][715]LogEditorTransaction: Undo Move Actors
+[2022.08.10-18.22.37:188][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cafeteria_Scene_Final_Wall4)
+[2022.08.10-18.22.47:979][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cafeteria_Scene_Final_Wall4)
+[2022.08.10-18.23.00:130][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cafeteria_Scene_Final_Floor)
+[2022.08.10-18.23.01:716][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CafeteriaF" FILE="D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Content/Maps/CafeteriaF.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.10-18.23.01:727][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.08.10-18.23.01:953][921]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/CafeteriaF30E7A56149881BC3C90CEA97F8C655EA.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Content/Maps/CafeteriaF.umap'
+[2022.08.10-18.23.01:964][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CafeteriaF_BuiltData" FILE="D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Content/Maps/CafeteriaF_BuiltData.uasset" SILENT=true
+[2022.08.10-18.23.01:984][921]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/CafeteriaF_BuiltData9C535C854483A977E230BE8160444EDF.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Content/Maps/CafeteriaF_BuiltData.uasset'
+[2022.08.10-18.23.01:998][921]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.10-18.23.01:998][921]LogContentValidation: Display: Validating World /Game/Maps/CafeteriaF.CafeteriaF
+[2022.08.10-18.23.01:998][921]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/CafeteriaF_BuiltData.CafeteriaF_BuiltData
+[2022.08.10-18.24.24:909][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cafeteria_Scene_Final_Wall4)
+[2022.08.10-18.24.25:902][492]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.10-18.24.28:385][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cafeteria_Scene_Final_Wall4)
+[2022.08.10-18.24.34:771][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cafeteria_Scene_Final_Wall4)
+[2022.08.10-18.24.35:423][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cafeteria_Scene_Final_Wall4)
+[2022.08.10-18.24.42:307][459]LogMaterial: Display: Missing cached shadermap for Glass_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 1F2DF86EFD25D9B3FD1319B30CA4186318C2F9CC), compiling. 
+[2022.08.10-18.24.42:344][459]LogShaderCompilers: Display: Submitted 37 shader compile jobs with 'Low' priority
+[2022.08.10-18.24.42:347][459]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 37
+[2022.08.10-18.24.42:347][459]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 32
+[2022.08.10-18.24.42:347][459]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2022.08.10-18.24.42:347][459]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2022.08.10-18.24.42:347][459]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2022.08.10-18.24.42:347][459]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.08.10-18.24.42:347][459]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.08.10-18.24.42:347][459]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.08.10-18.24.42:347][459]LogShaderCompilers: Display: Started 37 'Local' shader compile jobs with 'Low' priority
+[2022.08.10-18.24.43:301][510]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.10-18.24.43:301][510]LogShaderCompilers: Display: Total job queries 4797, among them cache hits 2148 (44.78%)
+[2022.08.10-18.24.43:301][510]LogShaderCompilers: Display: Tracking 2614 distinct input hashes that result in 725 distinct outputs (27.74%)
+[2022.08.10-18.24.43:301][510]LogShaderCompilers: Display: RAM used: 6.55 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.80%
+[2022.08.10-18.24.43:301][510]LogShaderCompilers: Display: ================================================
+[2022.08.10-18.24.46:507][694]LogD3D12RHI: Creating RTPSO with 166 shaders (0 cached, 1 new) took 54.22 ms. Compile time 51.54 ms, link time 2.32 ms.
+[2022.08.10-18.25.05:026][792]Cmd: DELETE
+[2022.08.10-18.25.05:031][792]Cmd: ACTOR DELETE
+[2022.08.10-18.25.05:045][792]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.10-18.25.05:052][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.08.10-18.25.05:061][792]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.08.10-18.25.05:834][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cafeteria_Scene_Final_Wall3)
+[2022.08.10-18.25.19:675][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (New_windows_For_Cafeteria_New_windows_For_Cafeteria1)
+[2022.08.10-18.25.20:502][709]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.08.10-18.25.24:038][921]Cmd: TRANSACTION UNDO
+[2022.08.10-18.25.24:038][921]LogEditorTransaction: Undo Move Actors
+[2022.08.10-18.25.40:036][676]Cmd: TRANSACTION UNDO
+[2022.08.10-18.25.40:036][676]LogEditorTransaction: Undo Move Actors
+[2022.08.10-18.25.45:230][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CafeteriaF" FILE="D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Content/Maps/CafeteriaF.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.10-18.25.45:237][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.08.10-18.25.45:461][977]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/CafeteriaFD7849BF34592F8D34F999A939BB15576.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Content/Maps/CafeteriaF.umap'
+[2022.08.10-18.25.45:472][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CafeteriaF_BuiltData" FILE="D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Content/Maps/CafeteriaF_BuiltData.uasset" SILENT=true
+[2022.08.10-18.25.45:490][977]LogSavePackage: Moving 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Saved/CafeteriaF_BuiltData0FB3ABDD413592B0DE9BC4B759D98515.tmp' to 'D:/Real-WorldNew-main/Real-WorldNew-main/Real-WorldNew/RealWorldName/Content/Maps/CafeteriaF_BuiltData.uasset'
+[2022.08.10-18.25.45:505][977]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.10-18.25.45:505][977]LogContentValidation: Display: Validating World /Game/Maps/CafeteriaF.CafeteriaF
+[2022.08.10-18.25.45:505][977]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/CafeteriaF_BuiltData.CafeteriaF_BuiltData
