@@ -72,3 +72,19 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+RealWorldName/Saved/Autosaves/Game/Decals/vgwkbdgla_Auto2.uasset
+RealWorldName/Saved/Autosaves/Game/Decals/vgwkbdgla_8K_Albedo_Auto2.uasset
+RealWorldName/Saved/Autosaves/Game/Decals/vgwkbdgla_8K_Opacity_Auto2.uasset
+RealWorldName/Saved/Autosaves/Game/Decals/vgwmaewla_8K_Albedo_Auto2.uasset
+RealWorldName/Saved/Autosaves/Game/Decals/vgwmaewla_8K_Opacity_Auto2.uasset
+RealWorldName/Saved/Autosaves/Game/Decals/vgwmaewla_Auto2.uasset
+RealWorldName/Saved/Autosaves/Game/Decals/vkzicinl_8K_Opacity_Auto1.uasset
+RealWorldName/Content/Decals/vgwkbdgla.uasset
+RealWorldName/Content/Decals/vgwkbdgla_8K_Albedo.uasset
+RealWorldName/Content/Decals/vgwkbdgla_8K_Opacity.uasset
+RealWorldName/Content/Decals/vgwmaewla.uasset
+RealWorldName/Content/Decals/vgwmaewla_8K_Albedo.uasset
+RealWorldName/Content/Decals/vgwmaewla_8K_Opacity.uasset
+RealWorldName/Content/Decals/vkzicinl_8K_Albedo.uasset
+RealWorldName/Content/Decals/vkzicinl.uasset
+*.uasset
